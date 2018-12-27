@@ -1,9 +1,10 @@
 # YelpCamp
 
 ## Description
-    YelpCamp is a web application with RESTful Routing and NoSql MongoDB database that allows you to sign up and create a campground posts.
-
-    It basicly allows you to share posts that includes campgrounds name, picture, comment and the price of one night. Or to see others post.
+YelpCamp is a web application with RESTful Routing and NoSql MongoDB database that 
+allows you to sign up and create a campground posts. 
+It basicly allows you to share posts that includes campgrounds name, picture,
+comment and the price of one night. Or to see others post.
 
 ## Features
 
@@ -99,4 +100,4 @@ or
 - [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 - [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
 - [Getting Started with MongoDB](https://docs.mongodb.com/?_ga=2.87418840.1746570759.1545944867-1363673920.1539882817)
--[RESTful Routing](https://medium.com/@atingenkay/restful-routes-what-are-they-8fe221521bb)
+- [RESTful Routing](https://medium.com/@atingenkay/restful-routes-what-are-they-8fe221521bb)
